@@ -109,5 +109,4 @@ for rotations in range(4):
         width = width // 2
     
 out.release()
-
-
+cv.destroyAllWindows()
